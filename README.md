@@ -1,6 +1,8 @@
 # solution-api
 Exercise 
 This api is build over the hacker-news api from where i am getting the latest stories and comments
+Link for the hacker-new api https://github.com/HackerNews/API
+
 I am creating three apis 
   1) GET /best-stories- this api will return the top 10 stories based on the score 
   2) GET /{story-id}/comments-  this api return top ten comments based on the reponses a comment has received
